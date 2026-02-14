@@ -1,0 +1,7 @@
+{
+  "name": "L'Amour - Romantic Dashboard",
+  "description": "A luxury, mobile-responsive Mac-style dashboard for Valentine's day, featuring secret vaults and custom love letters.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
